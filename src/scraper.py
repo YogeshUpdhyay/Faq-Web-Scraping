@@ -12,7 +12,6 @@ class Scraper:
     def read_files():
         dirpath = os.path.join(os.getcwd(), config.HTML_DIR)
         files = os.listdir(dirpath)
-        console_logger.debug(files)
         for file in files:
             filepath = "{}/{}".format(dirpath, file)
             f = open(filepath, 'r').read()
