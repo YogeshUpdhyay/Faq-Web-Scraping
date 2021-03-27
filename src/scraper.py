@@ -30,6 +30,7 @@ class Scraper:
     @staticmethod  
     def get_question_page(url):
         try:
+            console_logger.debug(url)
             response_page = requests.get(url).text
             response_page = BeautifulSoup(response_page, "lxml")
             return response_page
@@ -44,8 +45,10 @@ class Scraper:
             if question and answer:
                 return {"question": question, "answer": answer}
             else:
+                console_logger.debug("Couldn't find the question")
                 return None
         except Exception as e:
+            console_logger.debug(e)
             return None
 
     def scrape(self, filename):
@@ -67,7 +70,8 @@ class Scraper:
             question_page = self.get_question_page(url)
             entry = self.parse_question_page(question_page)
             if entry:
-                entry["tag"] = [url_to_tag[url]]
+                entry["tags"] = [url_to_tag[url]]
+                entry["__v"] = 0
                 allentries.append(entry)
         
         json_object = json.dumps(allentries, indent = 4)

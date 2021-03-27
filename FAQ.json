@@ -2,190 +2,217 @@
     {
         "question": "My issue is not listed here.",
         "answer": "You can try searching for your issue. Alternatively you can raise a ticket with us. Our Customer Support champs will help you out in no time!",
-        "tag": [
+        "tags": [
             "mutualfund"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "My latest external SIP installment is not showing up.",
         "answer": "External SIP cannot be imported. When you import a SIP on Groww, make sure you cancel the old SIP and start a new SIP in the same fund on Groww.\nIf you want to only see updated of your SIP on Groww while continuing the old SIP, you will have to import the fund after every SIP installment date.\u00a0",
-        "tag": [
+        "tags": [
             "mutualfund"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "How do I import my external mutual fund investments?",
         "answer": "1. Tap on the 'IMPORT' button below. 2. Now, tap on 'Connect with Google'.\u00a0 3. Choose the email ID in which you receive statements of your external mutual funds.\u00a0 4. Continue on with the next steps. Give permission to Groww to read your email.\u00a0 In 1-2 days, you will be able to see your external investments on the dashboard. Your imported investments will be updated every 30 days.\u00a0 Note: Groww does not have access to any of your emails except the ones that come from donotreply@camsonline.com and samfS@kfintech.com.\u00a0 Groww can only read messages that are from CAMS and Karvy so as to be able to read the mutual funds' statements.\u00a0",
-        "tag": [
+        "tags": [
             "mutualfund"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "My external SIP was not automatically imported.",
         "answer": "External SIP cannot be imported. When you import a SIP on Groww, make sure you cancel the old SIP and start a new SIP in the same fund on Groww.",
-        "tag": [
+        "tags": [
             "mutualfund"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "My external investments were not imported properly.",
         "answer": "Please contact us. We will resolve this issue as soon as possible.",
-        "tag": [
+        "tags": [
             "mutualfund"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "My issue is not listed here.",
         "answer": "You can try searching for your issue. Alternatively you can raise a ticket with us. Our Customer Support champs will help you out in no time!",
-        "tag": [
+        "tags": [
             "account"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "How to change email address?",
         "answer": "Please raise a ticket. We will help you with this matter.",
-        "tag": [
+        "tags": [
             "account"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "How to change name on Groww?",
         "answer": "Please raise a ticket. We will help you with this matter.",
-        "tag": [
+        "tags": [
             "account"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "How to change password on Groww?",
         "answer": "On app: you will find the option to change your password in the 'You' section.\nOn website: click on the profile in the right top corner and then, click on your name. You will see the option to change the password here.",
-        "tag": [
+        "tags": [
             "account"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "How to change Groww PIN?",
         "answer": "On app: you will find the option to change your PIN in the 'You' section.\nOn website: click on the profile in the right top corner and then, click on your name. You will see the option to change the PIN here.",
-        "tag": [
+        "tags": [
             "account"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "My issue is not listed here.",
         "answer": "You can try searching for your issue. Alternatively you can raise a ticket with us. Our Customer Support champs will help you out in no time!",
-        "tag": [
+        "tags": [
             "stockcharges"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "What is stamp duty?",
         "answer": "It is charged by the government for the contract note, applicable on buy orders only. For equity delivery: 0.015% For equity intraday: 0.003%",
-        "tag": [
+        "tags": [
             "stockcharges"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "What is STT?",
         "answer": "STT stands for Securities Transaction Tax. It is charged by the government when you transact on the exchanges.\n\nFor equity delivery: 0.1% of order amount\nFor equity intraday: 0.025% of order amount",
-        "tag": [
+        "tags": [
             "stockcharges"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "What are transaction charges by exchange?",
         "answer": "Transaction charges are charges applicable for trading on the exchanges. BSE: 0.003% of ordar amount NSE: 0.00325% of order amount. It is applicable for both buy and sell orders.",
-        "tag": [
+        "tags": [
             "stockcharges"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "What is SEBI turnover charge?",
         "answer": "For regulating the market, SEBI charges 0.00005% of the turnover.",
-        "tag": [
+        "tags": [
             "stockcharges"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "How much GST is charged?",
         "answer": "The rate of GST applicable is 18% of the amount wherever applicable.",
-        "tag": [
+        "tags": [
             "stockcharges"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "My issue is not listed here.",
         "answer": "You can try searching for your issue. Alternatively you can raise a ticket with us. Our Customer Support champs will help you out in no time!",
-        "tag": [
+        "tags": [
             "stocks"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "What happens if I don't exit my position?",
         "answer": "In intraday trading, each open position should be squared off by 3:10 PM. If it\u2019s a system square-off, there will be a charge of Rs.50 + GST per position. \n\nHence, we recommend planning the square-off for your open intraday positions well in advance.",
-        "tag": [
+        "tags": [
             "stocks"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "Can I change which account my money is redeemed to?",
         "answer": "Your money is redeemed to your primary bank account. You can easily change the primary bank account whenever you want to. \n\nYou can see your banks by pressing the 'BANK DETAILS' button below. \n\nHere's how to change your primary bank account:\n\n1) Tapping on the three dots next to the bank name\n2) Tap on 'Make Primary'",
-        "tag": [
+        "tags": [
             "bankaccount"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "Can I invest using a credit/debit card?",
         "answer": "No, it is not possible to invest using credit/debit card on Groww.\nSEBI rules say the investments should be made through verified bank accounts only. It is not possible to verify bank accounts when investments are made using a credit/debit card.\nYou can use the following options:\n1. UPI apps (Google Pay, PhonePe, BHIM, etc) 2. Net banking 3. NEFT/RTGS/IMPS",
-        "tag": [
+        "tags": [
             "bankaccount"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "How to add a bank account to Groww?",
         "answer": "You can do so by clicking the 'BANK DETAILS' button below.\u00a0\nThen, tap on 'Add Another Bank' to add a new bank account.\nIf you already have another bank account added, you make it your primary account. Here's how to:\n1) Tapping on the three dots next to the bank name2) Tap on 'Make Primary'",
-        "tag": [
+        "tags": [
             "bankaccount"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "How to change the primary bank account?",
         "answer": "You can do so by clicking the 'BANK DETAILS' button below. \n\nThen, tap on 'Add Another Bank' to add a new bank account.\n\nIf you already have another bank account added, you make it your primary account. Here's how to:\n\n1) Tapping on the three dots next to the bank name\n2) Tap on 'Make Primary'",
-        "tag": [
+        "tags": [
             "bankaccount"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "I want to change my bank account details.",
         "answer": "You can see your banks by pressing the 'BANK DETAILS' button below. \n\nYou can easily add a bank account here and make it primary too. \n\nHere's how to change your primary bank account:\n\n1) Tapping on the three dots next to the bank name\n2) Tap on 'Make Primary'",
-        "tag": [
+        "tags": [
             "bankaccount"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "My issue is not listed here.",
         "answer": "You can try searching for your issue. Alternatively you can raise a ticket with us. Our Customer Support champs will help you out in no time!",
-        "tag": [
+        "tags": [
             "bankaccount"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "What payment methods are supported on Groww?",
         "answer": "1. UPI apps (Google Pay, PhonePe, BHIM, etc) 2. Net banking 3. NEFT/RTGS/IMPS",
-        "tag": [
+        "tags": [
             "bankaccount"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "Which account will my money be redeemed to?",
         "answer": "Your money will be redeemed to your primary bank account. \n\nYou can see your banks by pressing the 'BANK DETAILS' button below. \n\nHere's how to change your primary bank account:\n\n1) Tapping on the three dots next to the bank name\n2) Tap on 'Make Primary'",
-        "tag": [
+        "tags": [
             "bankaccount"
-        ]
+        ],
+        "__v": 0
     },
     {
         "question": "Why do I need to add a bank account?",
         "answer": "Without adding a bank account, it is not possible to invest. As per government rules, money invested in mutual funds should be linked to a bank account so that it can be withdrawn and paid back.",
-        "tag": [
+        "tags": [
             "bankaccount"
-        ]
+        ],
+        "__v": 0
     }
 ]
