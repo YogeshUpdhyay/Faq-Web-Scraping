@@ -72,6 +72,7 @@ class Scraper:
             if entry:
                 entry["tags"] = [url_to_tag[url]]
                 entry["__v"] = 0
+                entry["status"] = "Answered"
                 allentries.append(entry)
         
         json_object = json.dumps(allentries, indent = 4)
